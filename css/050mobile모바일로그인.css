@@ -25,9 +25,9 @@ legend {
 }
 #form h2 {
         color:#4870F1;
-        font-size:45px;
+        font-size:60px;
         text-align:center;
-        margin-bottom:70px;
+        margin-bottom:100px;
 }
 }
 #form fieldset > div {
@@ -59,10 +59,19 @@ button {
     height:30px;
     margin-bottom:10px;
     border-radius:20px;
+    border:0;
     
 }
-.box02 {background-color:#19CE60;}
+.box01 {
+    background-color:skyblue;
+}
+
+.box02 {
+    background-color:#19CE60;
+}
 .box03 {background-color:#FAE100;}
+
+.
 
 
 
